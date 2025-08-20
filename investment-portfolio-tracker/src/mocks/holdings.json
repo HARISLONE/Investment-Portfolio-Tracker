@@ -1,0 +1,6 @@
+[
+  { "symbol": "AAPL", "type": "stock", "qty": 6, "avgBuy": 165 },
+  { "symbol": "MSFT", "type": "stock", "qty": 3, "avgBuy": 340 },
+  { "symbol": "bitcoin", "type": "crypto", "qty": 0.03, "avgBuy": 51000 },
+  { "symbol": "ethereum", "type": "crypto", "qty": 0.5, "avgBuy": 2600 }
+]
